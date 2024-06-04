@@ -19,6 +19,9 @@ Route::get('/', function () {
 Route::get('/index', function () {
     return view('index');
 });
+Route::get('/hora-atual', function () {
+    return response()->json(['hora' => now()]);
+});
 Route::get('/dashboard-eCommerce', function () {
     return view('dashboard-eCommerce');
 });

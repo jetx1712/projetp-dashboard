@@ -21,7 +21,7 @@
 	<link href="{{ asset('assets/css/app.css') }}" rel="stylesheet">
 	<link href="{{ asset('assets/css/icons.css') }}" rel="stylesheet">
 	
-	<title>Dashtreme - Multipurpose Bootstrap5 Admin Template</title>
+	<title>Dashboard - Statled</title>
 </head>
 
 <body class="bg-theme bg-theme1">
@@ -42,7 +42,7 @@
 		<!--Start Back To Top Button--> <a href="javaScript:;" class="back-to-top"><i class='bx bxs-up-arrow-alt'></i></a>
 		<!--End Back To Top Button-->
 		<footer class="page-footer">
-			<p class="mb-0">Copyright © 2021. All right reserved.</p>
+			<p class="mb-0">Statled © 2024. Todos os direitos reservados.</p>
 		</footer>
 	</div>
 	<!--end wrapper-->
@@ -52,23 +52,11 @@
 		</div>
 		<div class="switcher-body">
 			<div class="d-flex align-items-center">
-				<h5 class="mb-0 text-uppercase">Theme Customizer</h5>
+				<h5 class="mb-0 text-uppercase">Testes de coloração</h5>
 				<button type="button" class="btn-close ms-auto close-switcher" aria-label="Close"></button>
 			</div>
 			<hr/>
-			<p class="mb-0">Gaussian Texture</p>
-			  <hr>
-			  
-			  <ul class="switcher">
-				<li id="theme1"></li>
-				<li id="theme2"></li>
-				<li id="theme3"></li>
-				<li id="theme4"></li>
-				<li id="theme5"></li>
-				<li id="theme6"></li>
-			  </ul>
-               <hr>
-			  <p class="mb-0">Gradient Background</p>
+			  <p class="mb-0">Cores solidas e gradientes</p>
 			  <hr>
 			  
 			  <ul class="switcher">
